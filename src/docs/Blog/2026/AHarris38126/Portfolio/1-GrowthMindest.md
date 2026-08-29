@@ -1,7 +1,7 @@
-Growth Mindset is the my ability in my skills and abilities can improve through trying. 
+# My Growth Mindeset
 
-I can pass in the AI Stack class. Even though I am lost most of the time. Through practing and following instructions, I CAN!!!
+A growth mideset is beliving in my skills and abilites,while understanding that I can improve on them throught practice, hard work, and being willing to learn.
 
-Being prefect isn't important, the most important thing it is progress.
+I believe I can pass this AI Stack class. Even though I feel lost most of the time. I know that practicing, asking questions, and continuing to work through challenges will help me improve.
 
-Be teachable and willing to learn .
+Being perfect is not the end goal. Progress is the goal. Every mistake is an opportunity to learn and get better.

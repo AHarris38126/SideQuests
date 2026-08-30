@@ -36,4 +36,4 @@ Every mistake is an opportunity to learn something new. When I get stuck, I can 
 
 ### Thanks for Visiting!
 
-**Progress, not perfection!** 🌱
+**Progress not perfection!** 🌱

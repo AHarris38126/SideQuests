@@ -7,7 +7,7 @@ I believe I can pass this AI Stack class. Even though I feel lost most of the ti
 Being perfect is not the end goal. Progress is the goal. Every mistake is an opportunity to learn and get better.
 --
 
-## 🧠 Three Reminders to Keep Myself in a Growth Mindset
+##  Three Reminders to Keep Myself in a Growth Mindset
 
 ### 1. Keep Practicing
 
@@ -33,7 +33,7 @@ I can make mistakes, learn from them, and try again.
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 My goal is to continue learning full-stack development and become more comfortable with technology.
 
@@ -41,4 +41,4 @@ There will be times when I feel confused or frustrated, but I will remind myself
 
 > I may not know it yet, but I can learn it.
 
-🌱 **Keep learning. Keep practicing. Keep growing.**
+ **Keep learning. Keep practicing. Keep growing.**

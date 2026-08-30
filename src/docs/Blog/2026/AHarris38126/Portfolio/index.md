@@ -1,4 +1,4 @@
-# Welcome to My Blog! 
+# Welcome to My Blog! 👋
 
 ## About My Blog
 
@@ -8,14 +8,14 @@ Learning something new can be challenging, but I believe that **progress is more
 
 ---
 
-##  Table of Contents
+## 📚 Table of Contents
 
-1. [My First Blog Post](Growth_Mindset.md)
-2. [My GitHub Page](https://github.com/AHarris38126)
+- [My First Blog Post: Growth Mindset](GrowthMindset/)
+- [My GitHub Page](https://github.com/AHarris38126)
 
 ---
 
-##  What I Am Learning
+## 🚀 What I Am Learning
 
 - HTML
 - CSS
@@ -24,11 +24,12 @@ Learning something new can be challenging, but I believe that **progress is more
 - GitHub
 - Markdown
 - Full-Stack Development
+
 > My goal is to keep learning, practicing, and improving.
 
 ---
 
-##  My Learning Philosophy
+## 💡 My Learning Philosophy
 
 **I don't have to know everything today.**
 
@@ -36,4 +37,4 @@ Every mistake is an opportunity to learn something new. When I get stuck, I can 
 
 ### Thanks for Visiting!
 
-**Progress not perfection!** 
+**Progress, not perfection!** 

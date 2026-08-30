@@ -30,3 +30,4 @@ My goal is to continue learning, improve my skills, and successfully complete th
 
  **I can learn. I can improve. I can succeed.**
 
+ 
